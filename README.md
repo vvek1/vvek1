@@ -25,6 +25,21 @@ A modern URL shortener built with Next.js 🚀
 
 ---
 
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=vvek1&theme=onedark)
+
+---
+
+## 🔥 GitHub Activity Graph
+![Vivek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vvek1&theme=react-dark)
+
+---
+
+## 👀 Visitor Counter
+![Profile Views](https://komarev.com/ghpvc/?username=vvek1&style=for-the-badge)
+
+---
+
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vivek-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/vivek-anand-b42b57259)
 [![GitHub](https://img.shields.io/badge/GitHub-vvek1-181717?style=for-the-badge&logo=github)](https://github.com/vvek1)
