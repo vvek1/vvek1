@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **[BitLinks](https://github.com/vvek1/BitLinks)** — a modern and simple URL shortener built with Next.js  
 - 🌱 I’m currently learning **Full-Stack Web Development, TypeScript, and API integration**  
 - 💬 Ask me about **JavaScript, React, Next.js, Git & GitHub**  
-- 📫 How to reach me: [Email](vivekand786@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vivek-anand-b42b57259)  
+- 📫 How to reach me: [Email](mailto:vivekand786@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vivek-anand-b42b57259)  
 - ⚡ Fun fact: I can spend hours debugging just to fix a single missing semicolon 😆  
 
 ---
@@ -23,7 +23,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
 
 ---
 
@@ -57,5 +56,3 @@ A modern URL shortener built with **Next.js** 🚀
 ## 🤝 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-vvek1-181717?style=for-the-badge&logo=github)](https://github.com/vvek1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vivek-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vivek-anand-b42b57259)
-
-yeh mera final h remember this
