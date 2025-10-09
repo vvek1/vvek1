@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning **Full-Stack Web Development, TypeScript, and API integration**  
 - 💬 Ask me about **JavaScript, React, Next.js, Git & GitHub**  
 - 📫 How to reach me: [Email](mailto:vivekand786@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vivek-anand-b42b57259)  
-- ⚡ Fun fact: I can spend hours debugging just to fix a single missing semicolon 😆  
 
 ---
 
